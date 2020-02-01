@@ -1,0 +1,7 @@
+<style type='css'>
+ul.animagids1{margin:0;padding:0;width:25%;float:left;min-height:270px}
+ul.animagids1 li{min-height:68px;padding:0;position:relative;overflow:hidden;margin:10px}
+ul.animagids1 .Idnthemethumb{position:relative;background:#fbfbfb;margin:3px 0 10px;width:100%;height:auto;max-height:150px;overflow:hidden}
+ul.animagids1 .Idnthemethumb:after{content:&#39;&#39;;display:block;position:absolute;box-shadow:inset 0 0 20px rgba(0,0,0,0.2);z-index:2;top:0;right:0;bottom:0;left:0;transition:all 0.2s;}
+ul.animagids1 .Idnthemethumb:hover:after{box-shadow:inset 0 0 20px rgba(0,0,0,0);}
+ul.animagids1 .Idnthemethumb img {height:auto;width:100%;}</style>
