@@ -1,3 +1,4 @@
+<style type='text/css'>
 ul.animagids{position:relative;margin:0;float:left;width:25%;padding:10px}
 ul.animagids li{}
 ul.animagids .Idnthemethumb{position:relative;background:#fbfbfb;margin:3px 0 10px;width:100%;height:auto;overflow:hidden}
@@ -25,3 +26,4 @@ ul.animagids22 li{font-size:11px;margin:0 0 10px;padding:0;min-height:80px}
 ul.animagids22 .Idnthemethumb2 {background:#fbfbfb;float:left;margin:3px 8px 0 0;height:75px;width:75px;}
 ul.animagids22 .Idnthemethumb2 img {height:75px;width:75px;}
 ul.animagids22 li a:hover, ul.animagids li a:hover,ul.animagids2 li a:hover, ul.animagids li a:hover {color:#4db2ec;}
+</style>
