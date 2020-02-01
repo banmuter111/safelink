@@ -1,7 +1,27 @@
-<style type='css'>
+ul.animagids{position:relative;margin:0;float:left;width:25%;padding:10px}
+ul.animagids li{}
+ul.animagids .Idnthemethumb{position:relative;background:#fbfbfb;margin:3px 0 10px;width:100%;height:auto;overflow:hidden}
+ul.animagids .Idnthemethumb img {height:auto;width:100%;}
 ul.animagids1{margin:0;padding:0;width:25%;float:left;min-height:270px}
 ul.animagids1 li{min-height:68px;padding:0;position:relative;overflow:hidden;margin:10px}
 ul.animagids1 .Idnthemethumb{position:relative;background:#fbfbfb;margin:3px 0 10px;width:100%;height:auto;max-height:150px;overflow:hidden}
 ul.animagids1 .Idnthemethumb:after{content:&#39;&#39;;display:block;position:absolute;box-shadow:inset 0 0 20px rgba(0,0,0,0.2);z-index:2;top:0;right:0;bottom:0;left:0;transition:all 0.2s;}
 ul.animagids1 .Idnthemethumb:hover:after{box-shadow:inset 0 0 20px rgba(0,0,0,0);}
-ul.animagids1 .Idnthemethumb img {height:auto;width:100%;}</style>
+ul.animagids1 .Idnthemethumb img {height:auto;width:100%;}
+ul.animagids2 {font-size:13px;}
+ul.animagids2 li {padding:00;font-size:11px;margin:10px 0;padding:0;min-height:80px;}
+ul.animagids2 .Idnthemethumb2 {background:#fbfbfb;float:left;margin:3px 8px 0 0;height:75px;width:75px;}
+ul.animagids2 .Idnthemethumb2 img {height:75px;width:75px;}
+span.Idnthemetitle{position:relative;display:block;margin:0 0 5px;font-style:normal;font-size:16px;font-weight:400;line-height:20px;color:#202020;}
+span.Idnthemetitle2{font-size:16px}
+span.viesummary{display:none;margin:6px 0;color:#888;font-size:13px;font-weight:400;line-height:normal}
+span.vienmeta {background:transparent;display:block;font-size:11px;color:#aaa;}
+span.Idnthemetitle a,span.Idnthemetitle2 a{color:#202020;}span.Idnthemetitle a:hover,span.Idnthemetitle2 a:hover{color:#ec2028;}
+span.vienmeta a {display:inline-block;}
+span.vienmeta_comment,span.vienmeta_more{display:none}
+span.vienmeta_date{font-size:12px;line-height:16px;color:#999;overflow:hidden;text-overflow:ellipsis;text-transform:uppercase;}
+ul.animagids22 {font-size:13px;width:49%;float:right;}
+ul.animagids22 li{font-size:11px;margin:0 0 10px;padding:0;min-height:80px}
+ul.animagids22 .Idnthemethumb2 {background:#fbfbfb;float:left;margin:3px 8px 0 0;height:75px;width:75px;}
+ul.animagids22 .Idnthemethumb2 img {height:75px;width:75px;}
+ul.animagids22 li a:hover, ul.animagids li a:hover,ul.animagids2 li a:hover, ul.animagids li a:hover {color:#4db2ec;}
